@@ -32,3 +32,6 @@
   * Tarkemmat ohjeet js/main-c.js kommenteissa
   * Apuja: http://www.w3schools.com/js/js_htmldom_nodes.asp
 # Tehtavat_311
+# AJAX
+# AJAX
+# AJAX
